@@ -1,0 +1,112 @@
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\demo ci-cd.dll.config
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\demo ci-cd.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\demo ci-cd.pdb
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csc.exe
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csc.exe.config
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csc.rsp
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csi.exe
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csi.exe.config
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\csi.rsp
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.Managed.Core.targets
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.AppContext.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Collections.Immutable.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Console.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Compression.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.FileSystem.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Pipes.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Reflection.Metadata.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.AccessControl.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Claims.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Principal.Windows.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.ValueTuple.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XmlDocument.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XPath.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\vbc.exe
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\vbc.exe.config
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\vbc.rsp
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\VBCSCompiler.exe
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\roslyn\VBCSCompiler.exe.config
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csproj.CoreCompileInputs.cache
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csproj.CopyComplete
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.dll
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.pdb
+D:\devops\ci-cd web app\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csprojAssemblyReference.cache
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\demo ci-cd.dll.config
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\demo ci-cd.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\demo ci-cd.pdb
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csc.exe
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csc.exe.config
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csc.rsp
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csi.exe
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csi.exe.config
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\csi.rsp
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.AppContext.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Console.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Compression.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.IO.Pipes.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Claims.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.ValueTuple.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\vbc.exe
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\vbc.exe.config
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\vbc.rsp
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\VBCSCompiler.exe
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csprojAssemblyReference.cache
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csproj.CoreCompileInputs.cache
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.csproj.CopyComplete
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.dll
+C:\Users\majith\Desktop\demo ci-cd\demo ci-cd\obj\Release\demo ci-cd.pdb
