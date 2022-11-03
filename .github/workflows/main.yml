@@ -12,7 +12,8 @@ jobs:
       - name: Build
         run: |
          
-              & D:\yaml\insert.ps1
-        
-            
+              & 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe' -t:restore
+              & 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe' demo_cicd.sln /p:DeployOnBuild=true /p:publishprofile=FolderProfile.pubxml
+             
+              & D:\yaml\git.ps1
         
