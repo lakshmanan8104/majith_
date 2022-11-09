@@ -8,6 +8,7 @@ jobs:
   build:
     runs-on: self-hosted
     steps:
+      - uses: actions/checkout@v2
       - name: Cache SonarQube packages
         uses: actions/cache@v1
         with:
@@ -33,11 +34,7 @@ jobs:
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"sonarkey" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="${{ secrets.SONAR_HOST_URL }}"
           dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
-      - uses: actions/checkout@v2
-      - name: Setup sonarqube
-        uses: warchant/setup-sonar-scanner@v3
-      - name: Run sonarqube
-        run: sonar-scanner
+      
       - name: Build
         run: |
          
