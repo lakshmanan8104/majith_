@@ -19,7 +19,7 @@ jobs:
               & D:\yaml\git.ps1
               $SQLquery5 =@"
 
-TRUNCATE TABLE windowservice_moniter
+TRUNCATE TABLE windowservice_error_desc
 
 "@ 
  
